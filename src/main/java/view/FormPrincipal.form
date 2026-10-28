@@ -458,13 +458,13 @@
               <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
           </hspacer>
-          <component id="eafe4" class="javax.swing.JLabel">
+          <component id="eafe4" class="javax.swing.JLabel" binding="lblBanco">
             <constraints>
               <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
               <icon value="icons/database.png"/>
-              <text value="MySQL conectado"/>
+              <text value=""/>
             </properties>
           </component>
           <component id="26685" class="javax.swing.JLabel" binding="lblData">
@@ -475,7 +475,7 @@
               <text value="22/10/2026"/>
             </properties>
           </component>
-          <component id="9942d" class="javax.swing.JLabel">
+          <component id="9942d" class="javax.swing.JLabel" binding="lblDbSignal">
             <constraints>
               <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
             </constraints>
